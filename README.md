@@ -6,19 +6,19 @@
 
 ### Table of content
 
-[Description](#description)
-[Technologies](#technologies)
-[Installation](#Installation)
-[Reference](#Reference)
+- [Description](#description)
+- [Technologies](#technologies)
+- [Installation](#Installation)
+- [Reference](#Reference)
 
 ---
 
-###Description
+### Description
 
--Auto Login
--Automated likes
--Automated Followers
--Automated unfollowers
+- Auto Login
+- Automated likes
+- Automated Followers
+- Automated unfollowers
 
 ---
 
@@ -30,11 +30,11 @@
 
 ---
 
-###Installation
+### Installation
 > pip install selenium
 
 Download ChromeDriver 
-> [Chrome Drivers](https://chromedriver.chromium.org/downloads)
+> [Installation Link](https://chromedriver.chromium.org/downloads)
 
 ---
 
@@ -43,4 +43,4 @@ Download ChromeDriver
 ---
 
 
-[Back To Top](#Instagram Bot for Like's and follow)
+[Back To Top](#Instagram-Bot-for-Like's-and-follow)
